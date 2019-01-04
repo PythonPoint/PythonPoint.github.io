@@ -1,5 +1,6 @@
 ---
 title: Home
+description: Welcome!
 permalink: /
 layout: default
 ---
